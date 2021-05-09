@@ -1,0 +1,15 @@
+@media (max-width:670px){ /*mobile*/
+    
+    span .grid{
+        display: block;
+    }
+    .headerkanan{
+        display: none;
+    }
+
+    
+}
+
+@media (max-width:1000px){
+    
+}
